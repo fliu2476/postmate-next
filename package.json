@@ -1,5 +1,5 @@
 {
-  "name": "postmate",
+  "name": "postmate-next",
   "version": "1.6.0",
   "description": "A powerful, simple, promise-based postMessage library",
   "main": "build/postmate.js",
@@ -60,7 +60,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dollarshaveclub/postmate.git"
+    "url": "git+https://github.com/fliu2476/postmate-next.git"
   },
   "keywords": [
     "postMessage",
@@ -71,12 +71,8 @@
     "pci",
     "security"
   ],
-  "author": "Jacob Kelley <jakie8@gmail.com>",
+  "author": "Franck <fliu2476@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dollarshaveclub/postmate/issues"
-  },
-  "homepage": "https://github.com/dollarshaveclub/postmate",
   "browserslist": [
     "defaults",
     "ie >= 11"
